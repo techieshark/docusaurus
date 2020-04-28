@@ -1,0 +1,15 @@
+{
+  "name": "docusaurus-plugin-theme-hooks",
+  "version": "2.0.0-alpha.54",
+  "description": "Custom hooks for Docusaurus theme's",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@docusaurus/core": "^2.0.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
